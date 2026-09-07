@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.env
+*.csv
+*.parquet
+!results/*.csv
+!results/*.json
+.DS_Store
+*.log

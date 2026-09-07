@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.14
+pandas>=2.2
+matplotlib>=3.7
+seaborn>=0.13
+cvxpy>=1.4
+pytest>=8.0
